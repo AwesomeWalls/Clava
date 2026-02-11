@@ -65,6 +65,8 @@ background-color: #f5f8f3 !important;
 
 .clava-wrapper h1, .clava-wrapper h2, .clava-wrapper h3 {     
 
+font-family: 'Titillium Web', sans-serif !important;
+ 
 color: #336699 !important; 
 
 }  
@@ -75,6 +77,8 @@ color: #336699 !important;
 
 .clava-wrapper p, .clava-wrapper span, .clava-wrapper label {     
 
+font-family: 'Titillium Web', sans-serif !important;
+ 
 color: #336699 !important; 
 
 }  
@@ -90,5 +94,6 @@ background-color: red !important;
  
 
 .clava-profile-nav-item { background-color: #ffd200 !important; color: #000 !important; } 
+
 
 .clava-profile-nav-active {  background-color: #ffd200 !important; color: #fff !important; }
