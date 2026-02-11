@@ -27,7 +27,7 @@ border-radius: 100px !important;
 
 color: #1d1d1b !important;     
 
-font-family: 'Titillium Web', sans-serif !important;     
+font-family: "Titillium Web", sans-serif !important;     
 
 font-size: 0.9rem !important;     
 
@@ -97,4 +97,5 @@ background-color: red !important;
 
 
 .clava-profile-nav-active {  background-color: #ffd200 !important; color: #fff !important; }
+
 
