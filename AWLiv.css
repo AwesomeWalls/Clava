@@ -1,0 +1,94 @@
+/* Awesome Walls Liverpool Clava Widgets */
+
+
+/* Remove background image and change background colour */ 
+
+.clava-login-bg {     
+
+background-image: none !important;     
+
+background-color: #f5f8f3 !important; 
+
+}  
+
+ 
+
+/* buttons */ 
+
+.clava-btn {    
+
+background-color: #d80c5a !important;    
+
+border-color: #d80c5a !important;     
+
+border-width: 0 !important;     
+
+border-radius: 100px !important;     
+
+color: #1d1d1b !important;     
+
+font-family: 'Titillium Web', sans-serif !important;     
+
+font-size: 0.9rem !important;     
+
+font-weight: 400 !important;     
+
+letter-spacing: 0.07em !important;     
+
+text-transform: uppercase !important; 
+
+}  
+
+ 
+
+.clava-btn:hover {     
+
+background-color: #ffd200 !important;     
+
+color: #ffffff !important; 
+
+}  
+
+ 
+
+/* main content from the widget */ 
+
+.clava-wrapper {     
+
+background-color: #f5f8f3 !important; 
+
+} 
+
+ 
+
+/* Headers within the widget wrapper */ 
+
+.clava-wrapper h1, .clava-wrapper h2, .clava-wrapper h3 {     
+
+color: #336699 !important; 
+
+}  
+
+ 
+
+/* Normal text/paragraphs */ 
+
+.clava-wrapper p, .clava-wrapper span, .clava-wrapper label {     
+
+color: #336699 !important; 
+
+}  
+
+ 
+
+.clava-day-active {     
+
+background-color: red !important; 
+
+}  
+
+ 
+
+.clava-profile-nav-item { background-color: #ffd200 !important; color: #000 !important; } 
+
+.clava-profile-nav-active {  background-color: #ffd200 !important; color: #fff !important; }
