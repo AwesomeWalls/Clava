@@ -4,10 +4,8 @@
 /* Remove background image and change background colour */ 
 
 .clava-login-bg {     
-
 background-image: none !important;     
 background-color: #f5f8f3 !important; 
-
 }  
 
  
@@ -86,6 +84,7 @@ background-color: red !important;
 
 
 .clava-profile-nav-active {  background-color: #ffd200 !important; color: #fff !important; }
+
 
 
 
