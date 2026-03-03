@@ -31,7 +31,7 @@ text-transform: uppercase !important;
 
 .clava-btn:hover {     
 
-background-color: #ffd200 !important;     
+background-color: #E62F23 !important;     
 
 color: #ffffff !important; 
 
@@ -80,10 +80,11 @@ background-color: red !important;
 
  
 
-.clava-profile-nav-item { background-color: #ffd200 !important; color: #000 !important; } 
+.clava-profile-nav-item { background-color: #E62F23 !important; color: #000 !important; } 
 
 
-.clava-profile-nav-active {  background-color: #ffd200 !important; color: #fff !important; }
+.clava-profile-nav-active {  background-color: #E62F23 !important; color: #fff !important; }
+
 
 
 
