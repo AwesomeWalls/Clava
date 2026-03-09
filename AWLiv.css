@@ -21,7 +21,7 @@ background-color: #f5f8f3 !important;
 
 .clava-btn {    
 
-background-color: #000000 !important;    
+background-color: ##00FF00 !important;    
 border-color: #d80c5a !important;     
 border-width: 0 !important;     
 border-radius: 100px !important;     
@@ -91,6 +91,7 @@ background-color: red !important;
 
 
 .clava-profile-nav-active {  background-color: #E62F23 !important; color: #fff !important; }
+
 
 
 
